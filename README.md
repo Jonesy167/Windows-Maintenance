@@ -4,5 +4,6 @@ This script will give your windows computer a tune up, specifically it will:
 -Empty recycle bin
 -Defrag drives
 -Scan System file and fix any errors
+-Check for and install Windows updates
 -Delete temporary files
 -Overwrite free space in order to protect data
