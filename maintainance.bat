@@ -60,3 +60,5 @@ timeout /t 5
 
 if "%input%"=="y" (shutdown /s)
 if "%input%"=="Y" (shutdown /s)
+
+EXIT /B
